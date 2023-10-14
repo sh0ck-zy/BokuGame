@@ -11,6 +11,9 @@ Hey there! Welcome to the world of **Boku**. It's a super cool strategic game pl
   - Edge cells? They chill with 4 neighbors.
   - All the others in the middle? They're the life of the party with 6 neighbors!
 
+  ![Boku Board](docs/BokuBoard.png)
+
+
 ### Your Mission 🎯:
 - Simple but challenging: line up five of your pieces in any of the six directions. Sounds easy, right? 😉
 
